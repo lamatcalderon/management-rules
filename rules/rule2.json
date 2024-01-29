@@ -28,7 +28,7 @@
                             {
                                 "fact": "personalFoulCount",
                                 "operator": "greaterThanInclusive",
-                                "value": 4
+                                "value": 9
                             }
                         ]
                     },
